@@ -1,0 +1,19 @@
+{
+    "name": "@lumeweb/kernel-handshake-client",
+    "version": "0.1.0",
+    "type": "module",
+    "main": "dist/index.js",
+    "dependencies": {
+        "@lumeweb/libkernel-universal": "git+https://git.lumeweb.com/LumeWeb/libkernel-universal.git",
+        "@noble/hashes": "^1.2.0",
+        "@siaweb/libweb": "git+https://git.lumeweb.com/LumeWeb/libsiaweb.git",
+        "backoff.js": "^1.0.4",
+        "eventemitter3": "^5.0.0"
+    },
+    "devDependencies": {
+        "@types/node": "^18.13.0",
+        "prettier": "^2.8.4",
+        "pretty": "^2.0.0",
+        "typescript": "^4.9.5"
+    }
+}
