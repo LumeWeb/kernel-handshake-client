@@ -1,5 +1,5 @@
 import { Client, factory } from "@lumeweb/libkernel-universal";
-const MODULE = "AAAWj15-dWy44kfNabXtrcgt9Hae2klbZoHRK9bci5x2nQ";
+const MODULE = "AABpkxAEOLG5JKGVrC4pFCdFnBpA5SbBZYqtz_eIjEEabg";
 export class HandshakeClient extends Client {
     async ready() {
         return this.callModuleReturn("ready");
