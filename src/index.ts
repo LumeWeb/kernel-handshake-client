@@ -1,4 +1,4 @@
-import { Client, factory } from "@lumeweb/libkernel-universal";
+import { Client, factory } from "@lumeweb/libkernel/module";
 
 const MODULE = "AABCDWpcbyCkTWy5ZP6qZWZ5eiFe--CRJSMKxRYLE4usfQ";
 
