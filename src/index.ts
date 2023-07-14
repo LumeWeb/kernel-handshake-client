@@ -1,6 +1,6 @@
 import { Client, factory } from "@lumeweb/libkernel/module";
 
-const MODULE = "zduTL1s9n4L5QE1N8rSJuUsmaWezy6ywh8mWHXyJRdjtEj9HzyGCjjR7dZ";
+const MODULE = "zduLCsqi4z9Pa4GLah28bJF91YhE8c6CSMcSkmYFcPkVQssVYVoTsspimD";
 
 export interface Response {
   id?: number;
