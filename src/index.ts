@@ -16,6 +16,10 @@ export class HandshakeClient extends Client {
   public async query(method: string, params: any): Promise<Response> {
     return this.callModuleReturn("query", { method, params });
   }
+
+  public async register(){
+      return this.callModuleReturn("register");
+  }
 }
 
 export const createClient = factory<HandshakeClient>(HandshakeClient, MODULE);
