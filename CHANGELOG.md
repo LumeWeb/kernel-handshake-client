@@ -1,3 +1,10 @@
+# [0.1.0-develop.1](https://git.lumeweb.com/LumeWeb/kernel-handshake-client/compare/v0.0.2-develop.19...v0.1.0-develop.1) (2023-08-02)
+
+
+### Features
+
+* add queryDns method ([0ef0d1c](https://git.lumeweb.com/LumeWeb/kernel-handshake-client/commit/0ef0d1cb8e5ade43d62203a1bba776f16d111e68))
+
 ## [0.0.2-develop.19](https://git.lumeweb.com/LumeWeb/kernel-handshake-client/compare/v0.0.2-develop.18...v0.0.2-develop.19) (2023-08-02)
 
 ## [0.0.2-develop.18](https://git.lumeweb.com/LumeWeb/kernel-handshake-client/compare/v0.0.2-develop.17...v0.0.2-develop.18) (2023-07-31)
