@@ -1,3 +1,10 @@
+# [0.1.0-develop.2](https://git.lumeweb.com/LumeWeb/kernel-handshake-client/compare/v0.1.0-develop.1...v0.1.0-develop.2) (2023-08-02)
+
+
+### Bug Fixes
+
+* queryDns needs to be dnsQuery ([1558d45](https://git.lumeweb.com/LumeWeb/kernel-handshake-client/commit/1558d458cc193242ccfb96df0443c67fc950adb4))
+
 # [0.1.0-develop.1](https://git.lumeweb.com/LumeWeb/kernel-handshake-client/compare/v0.0.2-develop.19...v0.1.0-develop.1) (2023-08-02)
 
 
