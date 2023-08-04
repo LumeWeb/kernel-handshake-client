@@ -1,3 +1,5 @@
+# [0.1.0-develop.3](https://git.lumeweb.com/LumeWeb/kernel-handshake-client/compare/v0.1.0-develop.2...v0.1.0-develop.3) (2023-08-03)
+
 # [0.1.0-develop.2](https://git.lumeweb.com/LumeWeb/kernel-handshake-client/compare/v0.1.0-develop.1...v0.1.0-develop.2) (2023-08-02)
 
 
