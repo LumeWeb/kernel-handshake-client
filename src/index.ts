@@ -1,7 +1,6 @@
 import { factory, NetworkClient } from "@lumeweb/libkernel/module";
 
-export const MODULE =
-  "zdiMgQ1xs45s3XGwrNRMzm1oDKr7RfvZhkjtPD8CuXkjvwLkXhmDZJwq8j";
+export const MODULE = "zrjGvTrdxGEsNZiHBQisebuEDYzHPkuq9L8GBRB5AZ2iwQf";
 
 export interface Response {
   id?: number;
